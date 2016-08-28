@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+씨앤비시스템㈜는 2012년에 설립된 회사로 자본금 5,000만원, 매출액 10억 4,005만원, 사원수 15명 규모입니다. 
+서울 마포구 서교동에 위치하고 있으며, 시스템/모바일 소프트웨어 개발 및 공급사업을 하고 있습니다.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+작은회사이지만 경영과 사업에 무리 없이 잘 꾸려나가고 있습니다.
+파견SI업무로 나가 계신분도 있기때문에 사무실에는 5명 가량이 상주하여 작업하고 있습니다.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+솔루션 개발과 SI 프로젝트 진행을 주로 하고 있으며,
+사업분야는 모바일, 웹, 윈도우 다양하게 진행합니다.
